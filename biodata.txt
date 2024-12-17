@@ -1,2 +1,3 @@
 NO REG = 2320010117
 Nama = Ammar Musthafa Azzam
+Jurusan = Software Enginer
